@@ -1,20 +1,24 @@
 ---
-user-guide-title: Tutoriales de Adobe Content Supply Chain
-breadcrumb-title: Tutorials de la cadena de suministro
-user-guide-description: Vea tutoriales de Experience League sobre la cadena de suministro de contenido de Adobe, una solución integral para acelerar y simplificar su cadena de suministro de contenido con IA generativa y automatización inteligente.
-source-git-commit: 2ad7a5cfde323b7a6f726f98ec4c5eafd7cd4d86
+user-guide-title: Adobe Tutoriales de la cadena de suministro de contenido
+breadcrumb-title: Tutoriales de la cadena de suministro de contenido
+user-guide-desription: View Experience League tutorials on Adobe Content supply chain, the simplified promise of Adobe’s solutions to help organizations accelerate and scale content creation, improve content engagement and ROI, and deliver the content that fuels digital engagements buyers prefer.
+source-git-commit: fb7ae72b84c093627e79ddd171f703619410b637
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 1%
+source-wordcount: '40'
+ht-degree: 0%
 
 ---
 
 
-# Tutoriales de Adobe Content Supply Chain {#tutorials}
+# Adobe Tutoriales de la cadena de suministro de contenido {#tutorials}
 
-+ [[!DNL Content supply chain] Tutoriales](overview.md)
++ [[!DNL Content supply chain] tutoriales](overview.md)
 + [Flujo de trabajo y planificación](workflow-and-planning.md)
-+ [Productividad creativa](creative-productivity.md)
-+ [Productividad creativa con AEM Assets](creative-productivity-aemassets.md)
-+ [Agilidad del marketing](marketing-agility.md)
++ [Creación y producción de contenido](content-creation-and-production.md)
++ [Administración de recursos](asset-management.md)
 + [Envío y activación](delivery-and-activation.md)
++ [Informes y perspectivas](reporting-and-insights.md)
++ oculto {#hidden}
+   + [Productividad creativa](creative-productivity.md)
+   + [Productividad creativa con AEM Assets](creative-productivity-aemassets.md)
+   + [Agilidad del marketing](marketing-agility.md)
