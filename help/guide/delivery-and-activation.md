@@ -1,48 +1,55 @@
 ---
-title: 'Entrega y activación: experiencias de potencia y rendimiento'
-description: Para la empresa que necesita asistencia para obtener el contenido adecuado delante del individuo adecuado en el canal correcto. La cadena de suministro de contenido hace que esa conexión sea mejor que cualquier otra solución, al tiempo que proporciona el análisis para garantizar el rendimiento general del contenido.
-solution: Experience Cloud, Workfront, Creative Cloud, Experience Manager Assets
-feature-set: Experience Manager, Experience Manager Assets, Experience Manager Sites, Journey Optimizer, Creative Cloud
-feature: Asset Management, Asset Processing, Collaboration, Share, Performance Monitoring, Personalization, Channels Activity, Gen AI
-topic: Content Management, Collaboration, Personalization
+title: Tutoriales de envío y activación
+description: Mejore las experiencias y el rendimiento del contenido y las campañas.  Activación rápida de recursos y mejor rendimiento del contenido
+solution: Experience Cloud, Experience Manager, Campaign, Journey Optimizer, Marketo, Target
+feature-set: Experience Cloud, Experience Manager, Campaign, Journey Optimizer, Marketo Engage, Target
+topic: Content Management, Collaboration, Personalization, Artificial Intelligence
 role: Admin, User, Leader, Data Architect, Data Engineer
 level: Beginner
-last-substantial-update: 2023-11-16T00:00:00Z
+last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-14157
-source-git-commit: 2ad7a5cfde323b7a6f726f98ec4c5eafd7cd4d86
+source-git-commit: fecc107042220664ce5b76584f834a025844ef4b
 workflow-type: tm+mt
-source-wordcount: '646'
-ht-degree: 1%
+source-wordcount: '610'
+ht-degree: 2%
 
 ---
 
 
-# Entrega y activación: experiencias de potencia y rendimiento
+# Tutoriales de envío y activación
 
-Para la empresa que necesita asistencia para obtener el contenido adecuado delante del individuo adecuado en el canal correcto. La cadena de suministro de contenido hace que esa conexión sea mejor que cualquier otra solución, al tiempo que proporciona el análisis para garantizar el rendimiento general del contenido.
-
-## Casos de uso empresariales principales
-
-* Encuentre y reutilice recursos fácilmente
-* Cree y publique rápidamente experiencias de alto impacto
-* Generar y probar copia al instante
-* Implemente experiencias relevantes y personalizadas en todos los canales
+Mejore las experiencias y el rendimiento del contenido y las campañas.  Activación rápida de recursos y mejor rendimiento del contenido
 
 Las soluciones de Adobe utilizadas para la activación y el análisis de contenido:
-
 
 <table>
     <tr style="border: 0;">
       <td style="vertical-align: middle">
-        <p style="margin: 0"><img alt="Experience Manager Assets" src="/help/assets/aem-logo.png" style="verticle-align: middle;width: 42px;height:42px;"></p>
-        <strong>Experience Manager Assets</strong>
-      </td>
-      <td style="vertical-align: middle">
         <p style="margin: 0"><img alt="Experience Manager Sites" src="/help/assets/aem-logo.png" style="verticle-align: middle;width: 42px;height: 42px;"></p>
         <strong>Experience Manager Sites</strong>
       </td>
+      <td style="vertical-align: middle">
+        <p style="margin: 0"><img alt="Adobe Campaign" src="/help/assets/ac-logo.png" style="verticle-align: middle;width: 42px;height: 42px;"></p>
+        <strong>Adobe Campaign</strong>
+      </td>
+      <td style="vertical-align: middle">
+        <p style="margin: 0"><img alt="Journey Optimizer" src="/help/assets/ajo-logo.png" style="verticle-align: middle;width: 42px;height: 42px;"></p>
+        <strong>Journey Optimizer</strong>
+      </td>
+      <td style="vertical-align: middle">
+        <p style="margin: 0"><img alt="Marketo" src="/help/assets/marketo-logo.png" style="verticle-align: middle;width: 42px;height: 42px;"></p>
+        <strong>Marketo</strong>
+      </td>
+      <td style="vertical-align: middle">
+        <p style="margin: 0"><img alt="Público destinatario" src="/help/assets/target-logo.png" style="verticle-align: middle;width: 42px;height: 42px;"></p>
+        <strong>Destino</strong>
+      </td>
     </tr>
 </table>
+
+>[!TIP]
+>
+>Nuestro equipo de expertos en productos de Adobe ha reunido una colección de tutoriales de integración para casos de uso clave de la cadena de suministro de contenido. Si utiliza más de una solución, aprenda la mejor manera de integrarlas.  Consulte la [Tutoriales de integración de Content Supply Chain](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
 
 ## Tutoriales
 
