@@ -1,27 +1,27 @@
 ---
-title: 'Flujo de trabajo y planificación: agilizar y acelerar el trabajo'
-description: Para la empresa que lucha por conectarse y seguir sus requisitos de contenido a través del proceso de planificación para la producción y finalización de contenido. La falta de procesos efectivos, planificación, aprobaciones y coherencia de los datos en todos los proyectos está privando a la cadena de suministro de contenido de esta compañía de productividad y eficiencia.
-solution: Experience Cloud, Workfront, Creative Cloud, Experience Manager Assets
-feature-set: Experience Manager, Experience Manager Assets, Creative Cloud, Workfront
-feature: Workflow, Asset Management, Asset Processing, Collaboration, Share, People Teams and Groups, Work Management, Gen AI
-topic: Content Management, Collaboration
+title: Tutoriales de flujo de trabajo y planificación
+description: Cree flujos de trabajo optimizados y transparentes en todo el ciclo de vida del contenido.  Acelerar el proceso de revisión y aprobación.  Automatice los flujos de trabajo manuales.
+solution: Experience Cloud, Workfront, Creative Cloud
+feature-set: Creative Cloud, Workfront
+feature: Workflow, Collaboration, Share, People Teams and Groups, Work Management, Gen AI
+topic: Content Management, Collaboration, Artificial Intelligence
 role: Admin, User, Leader, Developer
 level: Beginner
-last-substantial-update: 2023-11-16T00:00:00Z
+last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-14154
-source-git-commit: 2ad7a5cfde323b7a6f726f98ec4c5eafd7cd4d86
+source-git-commit: ac328c68438276c1c7b0a6ea66ef9e86d73fed5f
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '446'
 ht-degree: 8%
 
 ---
 
 
-# Flujo de trabajo y planificación: Optimizar y acelerar el trabajo
+# Tutoriales de flujo de trabajo y planificación
 
-Este es para la compañía que lucha por conectarse y rastrear sus requisitos de contenido desde la planificación, la producción y la finalización. La falta de procesos efectivos, planificación, aprobaciones y coherencia de los datos en todos los proyectos están privando a la cadena de suministro de contenido de esta compañía de productividad y eficiencia.
+Cree flujos de trabajo optimizados y transparentes en todo el ciclo de vida del contenido.  Acelerar el proceso de revisión y aprobación.  Automatice los flujos de trabajo manuales.
 
-Las soluciones de Adobe utilizadas para la planificación y el flujo de trabajo:
+Las soluciones de Adobe utilizadas para el flujo de trabajo y la planificación:
 
 <table>
     <tr style="border: 0;">
@@ -33,19 +33,12 @@ Las soluciones de Adobe utilizadas para la planificación y el flujo de trabajo:
         <p style="margin: 0"><img alt="Frame.io" src="/help/assets/frameio-logo.png" style="width: 42px;height:42px;"></p>
         <strong>Frame.io</strong>
       </td>
-      <td style="align: center">
-        <p style="margin: 0"><img alt="Frame.io" src="/help/assets/aem-logo.png" style="width: 42px;height:42px;"></p>
-        <strong>AEM Assets</strong>
-      </td>
     </tr>
 </table>
 
-## Casos de uso empresariales principales
-
-* Simplificación de flujos de trabajo y aprobaciones
-* Optimización de gastos y recursos
-* Permita una mayor visibilidad de la capacidad, los proyectos, los riesgos y los plazos
-* Automatice los procesos descendentes, como el etiquetado de metadatos
+>[!TIP]
+>
+>Nuestro equipo de expertos en productos de Adobe ha reunido una colección de tutoriales de integración para casos de uso clave de la cadena de suministro de contenido. Si utiliza más de una solución, aprenda la mejor manera de integrarlas.  Consulte la [Tutoriales de integración de Content Supply Chain](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
 
 ## Cursos recomendados
 
